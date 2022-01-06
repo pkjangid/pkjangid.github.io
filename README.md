@@ -27,7 +27,6 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Github Status
-![](https://github-readme-stats.vercel.app/api?username=pkjangid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1515)
 ![](https://github-readme-stats.vercel.app/api?username=pkjangid&&show_icons=true&title_color=yellow&icon_color=yellow&text_color=yellow&bg_color=black)
 
 ### Support or Contact
